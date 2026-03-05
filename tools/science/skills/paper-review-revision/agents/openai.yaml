@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Review Revision"
+  short_description: "Revise manuscript from reviewer comments with policy gates."
+  default_prompt: "Revise my manuscript from reviewer comments with minimal necessary edits."
